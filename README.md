@@ -8,11 +8,11 @@ Back when we did this project, we used CrossIDE written by Dr. Jesús Calviño-F
 [1] ELEC292/291 (UBC) Course Notes by Dr. Jesús Calviño-Fraga 
 
 ### Firmware
-This directory contains our code.
-setup.c -- Code to set up the microcontroller
-LCD.c -- Code with support functions for LCD display
-TimerCounter -- Code with support functions in interaction with Timers and Counters
-main.c -- Main code with execution
+This directory contains our code:\
+**setup.c** -- Code to set up the microcontroller\
+**LCD.c** -- Code with support functions for LCD display\
+**TimerCounter** -- Code with support functions in interaction with Timers and Counters\
+**main.c** -- Main code with execution
 
 ### Hardware
 This directory contains the simulation of our hardware.
